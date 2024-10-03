@@ -1,5 +1,5 @@
 import React from "react";
-import { AiOutlineMail } from "react-icons/ai";
+
 import { FaHtml5 } from "react-icons/fa";
 import { MdCss } from "react-icons/md";
 import { SiJavascript } from "react-icons/si";
